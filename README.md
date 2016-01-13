@@ -14,7 +14,7 @@ Welcome to Code for Tulsa CodeAcross 2016. We have a number of projects going on
 ### What Works Cities
 #### Lead: Luke Crouch
 
-* Customizable crime heat map for home-buyers
-* Address-based catalog of ordinances
-* Custom search engine for local governance issues
+* [Customizable crime heat map for home-buyers](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-Crime-Heat-Map)
+* [Address-based catalog of ordinances](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-Ordinance-Catalog)
+* [Custom search engine for local governance issues](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-City-Issues-Search-Engine)
 * PedBikeSafe Directions Application
