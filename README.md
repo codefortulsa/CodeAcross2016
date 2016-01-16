@@ -18,7 +18,10 @@ Or, you can find a Code for Tulsa organizer if you'd like us to help you with a 
 #### Lead:
 
 ### [Customizable crime heat map for home-buyers](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-Crime-Heat-Map)
+#### Lead: No-one yet, [file an issue](https://github.com/codefortulsa/CodeAcross2016/issues/new) if you're interested!
 ### [Address-based catalog of ordinances](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-Ordinance-Catalog)
+#### Lead: No-one yet, [file an issue](https://github.com/codefortulsa/CodeAcross2016/issues/new) if you're interested!
 ### [Custom search engine for local governance issues](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-City-Issues-Search-Engine)
+#### Lead: No-one yet, [file an issue](https://github.com/codefortulsa/CodeAcross2016/issues/new) if you're interested!
 ### [PedBikeSafe Trip Planner](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-PedBikeSafe-app)
 #### Lead: Luke Crouch
