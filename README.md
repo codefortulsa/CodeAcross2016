@@ -1,6 +1,6 @@
 # CodeAcross2016
 ## March 5 @ [36°N](http://36degreesnorth.co/)
-### RSVP
+### [Click here to RSVP](https://www.eventbrite.com/e/tulsa-codeacross-2016-tickets-20832074295)
 Welcome to Code for Tulsa CodeAcross 2016.
 
 We have a number of projects going on if you want to join an existing project. [File an issue here](https://github.com/codefortulsa/CodeAcross2016/issues/new) and the project lead will follow up with you.
