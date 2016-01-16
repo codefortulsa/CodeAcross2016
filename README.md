@@ -17,10 +17,8 @@ Or, you can find a Code for Tulsa organizer if you'd like us to help you with a 
 ### Citygram
 #### Lead:
 
-### What Works Cities
+### [Customizable crime heat map for home-buyers](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-Crime-Heat-Map)
+### [Address-based catalog of ordinances](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-Ordinance-Catalog)
+### [Custom search engine for local governance issues](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-City-Issues-Search-Engine)
+### [PedBikeSafe Trip Planner](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-PedBikeSafe-app)
 #### Lead: Luke Crouch
-
-* [Customizable crime heat map for home-buyers](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-Crime-Heat-Map)
-* [Address-based catalog of ordinances](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-Ordinance-Catalog)
-* [Custom search engine for local governance issues](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-City-Issues-Search-Engine)
-* PedBikeSafe Directions Application
