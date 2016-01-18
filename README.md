@@ -24,4 +24,4 @@ Or, you can find a Code for Tulsa organizer if you'd like us to help you with a 
 ### [Custom search engine for local governance issues](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-City-Issues-Search-Engine)
 #### Lead: No-one yet, [file an issue](https://github.com/codefortulsa/CodeAcross2016/issues/new) if you're interested!
 ### [PedBikeSafe Trip Planner](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-PedBikeSafe-app)
-#### Lead: Luke Crouch
+#### Lead: [Luke Crouch](mailto:luke.crouch@gmail.com)
