@@ -13,15 +13,16 @@ Or, you can find a Code for Tulsa organizer if you'd like us to help you with a 
 
 ### Crow Creek
 #### Lead:
-
 ### Citygram
-#### Lead:
-
+#### Lead: [John Dungan](mailto:johnadungan@gmail.com)
+[File an issue](https://github.com/codefortulsa/CodeAcross2016/issues/new) for John if you're interested!
 ### [Customizable crime heat map for home-buyers](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-Crime-Heat-Map)
-#### Lead: No-one yet, [file an issue](https://github.com/codefortulsa/CodeAcross2016/issues/new) if you're interested!
+#### Lead: [David Farnan](mailto:deeceefar2@gmail.com)
+[File an issue](https://github.com/codefortulsa/CodeAcross2016/issues/new) for David if you're interested!
 ### [Address-based catalog of ordinances](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-Ordinance-Catalog)
 #### Lead: No-one yet, [file an issue](https://github.com/codefortulsa/CodeAcross2016/issues/new) if you're interested!
 ### [Custom search engine for local governance issues](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-City-Issues-Search-Engine)
 #### Lead: No-one yet, [file an issue](https://github.com/codefortulsa/CodeAcross2016/issues/new) if you're interested!
 ### [PedBikeSafe Trip Planner](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-PedBikeSafe-app)
 #### Lead: [Luke Crouch](mailto:luke.crouch@gmail.com)
+[File an issue](https://github.com/codefortulsa/CodeAcross2016/issues/new) for Luke if you're interested!
