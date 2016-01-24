@@ -3,13 +3,24 @@
 ### [Click here to RSVP](https://www.eventbrite.com/e/tulsa-codeacross-2016-tickets-20832074295)
 Welcome to Code for Tulsa CodeAcross 2016.
 
+
+### Agenda
+#### 9am - 10am: Civic Tech Talks
+* Code for Tulsa: 
+* City of Tulsa:
+* (Blue Thumb?):
+
+#### 10am - 12pm: Meetups, team formation, project work
+#### 12pm - 1pm: Lunch
+#### 1pm - 4pm: Project work
+#### 4pm - 5pm: Project work, Demos
+
+## Projects
 We have a number of projects going on if you want to join an existing project. [File an issue here](https://github.com/codefortulsa/CodeAcross2016/issues/new) and the project lead will follow up with you.
 
 Or, you can find a Code for Tulsa organizer if you'd like us to help you with a new project idea.
 
-[City of Tulsa Open Data Portal](https://www.cityoftulsa.org/our-city/open-tulsa/open-tulsa-dataset-list.aspx)
-
-## Projects
+Be sure to check out the [City of Tulsa Open Data Portal](https://www.cityoftulsa.org/our-city/open-tulsa/open-tulsa-dataset-list.aspx), [data.ok.gov](http://data.ok.gov/), and [data.gov](http://www.data.gov/) to see if there's already a local, state, or federal data set that can help your project.
 
 ### Crow Creek
 #### Lead:
