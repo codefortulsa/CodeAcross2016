@@ -7,7 +7,6 @@ Welcome to Code for Tulsa CodeAcross 2016.
 ### Agenda
 #### 9am - 10am: Civic Tech Talks
 * Code for Tulsa: 
-* City of Tulsa:
 * (Blue Thumb?):
 
 #### 10am - 12pm: Meetups, team formation, project work
