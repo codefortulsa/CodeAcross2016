@@ -33,6 +33,3 @@ Be sure to check out the [City of Tulsa Open Data Portal](https://www.cityoftuls
 #### Lead: [David Farnan](mailto:deeceefar2@gmail.com)
 ### [Custom search engine for local governance issues](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-City-Issues-Search-Engine)
 #### Lead: No-one yet, [file an issue](https://github.com/codefortulsa/CodeAcross2016/issues/new) if you're interested!
-### [PedBikeSafe Trip Planner](https://github.com/codefortulsa/CodeAcross2016/wiki/Project:-PedBikeSafe-app)
-#### Lead: [Luke Crouch](mailto:luke.crouch@gmail.com)
-[File an issue](https://github.com/codefortulsa/CodeAcross2016/issues/new) for Luke if you're interested!
